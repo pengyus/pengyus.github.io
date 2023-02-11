@@ -3,15 +3,15 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a second-year CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/) (BJTU), advised by Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/). My research interest focuses on machine learning, multi-label learning and natural language processing applications (e.g., tagging). I have also developed machine learning methods for real-world problems including container recognition and traffic time series forecasting.
+I am currently a second-year CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/) (BJTU), advised by Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/). I am interested in the general areas of machine learning and natural language process, with research focuses on long-tailed recognition, multi-label learning and social media analysis (e.g. hashtag annotation, keyphrase generation). I have also developed machine learning methods for real-world problems including container recognition and railway time series forecasting.
 
 ***
 
 ## Research Interests
 - In General: Machine Learning, Natural Language Processing, Information Retrieval
-- **Multi-label Learning:** Multi-label Text Classification, Tag Recommendation, Imbalance/Long-tailed/Extreme Classification
-- **Data Augmentation** 
-- **Deep Generative Model** 
+- **Multi-label Learning:** Multi-label Text Classification, Imbalance/Long-tailed/Extreme Classification
+- **Social Media Analysis:** Tag Recommendation/Hashtag Annotation, Keyphrase Generation
+- **Data Augmentation** Deep Generative Model, Language Model
 
 ***
 
@@ -33,7 +33,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 ### News:
 - **Filter and Mask: Taming Prompt-based Data Augmentation for Extreme Multi-Label Text Classification**
   <br>
-  **Pengyu Xu**, Lin Xiao, Bing Liu, Sijin Lu, Liping Jing, Jian Yu
+  **Pengyu Xu**, Bing Liu, Sijin Lu, Ziyi Li, Mingyang Song, Liping Jing, Jian Yu
   <br>
   2023 (**Working Paper**) 
 - **Hierarchical Cross-Attention for High-Performance Tag Recommendation in Software Information Sites**
