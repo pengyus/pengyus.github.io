@@ -70,7 +70,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   <br>
   Lin Xiao, **Pengyu Xu**, Liping Jing, Uchenna Akujuobi, Xiangliang Zhang.
   <br>
-  Information Sciences, 2022 (**INS, CCF-B, SCI-An1**)
+  Information Sciences, 2022 (**CCF-B, SCI-An1**)
   [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025522000111)   
 
 ### 2021:
