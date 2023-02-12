@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a second-year CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/) (BJTU), advised by Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/). I am interested in the general areas of machine learning and natural language process, with research focuses on long-tailed recognition, multi-label learning and social media analysis (e.g. hashtag annotation, keyphrase generation). I have also developed machine learning methods for real-world problems including container recognition and railway time series forecasting.
+I am currently a second-year CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/) (BJTU), advised by Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/). I am interested in the general areas of machine learning and natural language process, with research focuses on long-tailed recognition, multi-label learning and social media analysis (e.g., hashtag annotation, keyphrase generation). I have also developed machine learning methods for real-world problems including container recognition and railway time series forecasting.
 
 ***
 
