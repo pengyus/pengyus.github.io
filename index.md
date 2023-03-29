@@ -48,16 +48,18 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   **Pengyu Xu**, Lin Xiao, Bing Liu, Sijin Lu, Liping Jing, Jian Yu
   <br>
   AAAI Conference on Artificial Intelligence, 2023 (**Accepted, AAAI, Oral, CCF-A**) 
+  [[Code]](https://github.com/stxupengyu/LSFA)  
 - **Textual Tag Recommendation with Multi-tag Topical Attention**
   <br>
   **Pengyu Xu**, Mingxuan Xia, Lin Xiao, Huafeng Liu, Bing Liu, Liping Jing, Jian Yu
   <br>
-  Neurocomputing, 2023 (**Minor Revision, SCI-An2**)
+  Neurocomputing, 2023 (**Accepted, SCI-An2**)
+  [[Code]](https://github.com/stxupengyu/TGTR)  
 - **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification**
   <br>
   Lin Xiao, **Pengyu Xu**, Mingyang Song, Huafeng Liu, Liping Jing, Xiangliang Zhang
   <br>
-  IEEE Transactions on Audio Speech and Language Processing, 2023 (**Minor Revision, TASLP, CCF-B, SCI-An1**) 
+  IEEE Transactions on Audio Speech and Language Processing, 2023 (**Accepted, TASLP, CCF-B, SCI-An1**) 
 
 ### 2022:
 - **标签推荐方法研究综述(Survey of Tag Recommendation Methods)**
