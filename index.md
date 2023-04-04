@@ -53,8 +53,8 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   <br>
   **Pengyu Xu**, Mingxuan Xia, Lin Xiao, Huafeng Liu, Bing Liu, Liping Jing, Jian Yu
   <br>
-  Neurocomputing, 2023 (**Accepted, SCI-An2**)
-  [[Code]](https://github.com/stxupengyu/TGTR)  
+  Neurocomputing, 2023 (**SCI-An2**)
+  [[Paper]]([https://github.com/stxupengyu/TGTR](https://www.sciencedirect.com/science/article/pii/S0925231223002990))[[Code]](https://github.com/stxupengyu/TGTR)  
 - **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification**
   <br>
   Lin Xiao, **Pengyu Xu**, Mingyang Song, Huafeng Liu, Liping Jing, Xiangliang Zhang
