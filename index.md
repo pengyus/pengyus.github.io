@@ -18,7 +18,7 @@ I am currently a second-year CS Ph.D. student at [Beijing Jiaotong University](h
 ## Education
 - 2021 - Now, Ph.D. student
 <br>
-Beijing Jiaotong University, Computer Science. Supervisor: Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).[Beijing Jiaotong University](https://bjtu.edu.cn/)
+Beijing Jiaotong University, Computer Science. Supervisor: Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
 <br>
 - 2019 - 2021, Master student
 <br>
