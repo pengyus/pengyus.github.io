@@ -18,14 +18,14 @@ I am currently a second-year CS Ph.D. student at [Beijing Jiaotong University](h
 ## Education
 - 2021 - Now, Ph.D. student
 <br>
-Beijing Jiaotong University, Computer Science. Supervisor: Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
+Beijing Jiaotong University, Computer Science. Supervisor: Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249//) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463//).
 <br>
 - 2019 - 2021, Master student
 <br>
 Beijing Jiaotong University, Statistics
 - 2015 - 2019, B.S.
 <br>
-Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](http://sci.bjtu.edu.cn/cms/item/157.html) )
+Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](http://sci.bjtu.edu.cn/cms/item/157.html))
 
 ***
 
