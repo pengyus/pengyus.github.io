@@ -23,6 +23,7 @@ Beijing Jiaotong University, Computer Science. Supervisor: Prof. [Liping Jing](h
 - 2019 - 2021, Master student
 <br>
 Beijing Jiaotong University, Statistics
+<br>
 - 2015 - 2019, B.S.
 <br>
 Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](http://sci.bjtu.edu.cn/cms/item/157.html))
