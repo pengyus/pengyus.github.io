@@ -17,22 +17,11 @@ I am currently a second-year CS Ph.D. student at [Beijing Jiaotong University](h
 
 ## Education
 - 2021 - Now, Ph.D. student
-Beijing Jiaotong University, 
+Beijing Jiaotong University, Computer Science. Supervisor: Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
 - 2019 - 2021, Master student
-Beijing Jiaotong University, Statistics
+Beijing Jiaotong University, Statistics.
 - 2015 - 2019, B.S.
-Beijing Jiaotong University, 
-- Filter and Mask
-- **Filter and Mask: Taming Prompt-based Data Augmentation for Extreme Multi-Label Text Classification**
-  <br>
-  **Pengyu Xu**, Bing Liu, Sijin Lu, Ziyi Li, Mingyang Song, Liping Jing, Jian Yu
-  <br>
-  2023 (**Working Paper**) 
-- **Cross-Modal Content Interaction for Tag Recommendation in Software Q&A Websites**
-  <br>
-  Sijin Lu\*, **Pengyu Xu\***, Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu (\*Equal Contribution, As a Mentor)
-  <br>
-  2023 (**Summited**) 
+Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](http://sci.bjtu.edu.cn/cms/item/157.html)).
 ***
 
 ## Publications
