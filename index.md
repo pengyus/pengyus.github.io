@@ -55,7 +55,8 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   <br>
   Lin Xiao, **Pengyu Xu**, Mingyang Song, Huafeng Liu, Liping Jing, Xiangliang Zhang
   <br>
-  IEEE Transactions on Audio Speech and Language Processing, 2023 (**Accepted, TASLP, CCF-B, SCI-An1**) 
+  IEEE Transactions on Audio Speech and Language Processing, 2023 (**TASLP, CCF-B**) 
+  [[Paper]](https://ieeexplore.ieee.org/document/10098206)    
 - **Bootstrap Decomposition Enhanced Orthogonal-Basis Projection Model for Long-Term Time Series Forecasting**
   <br>
   Xiaoyu Wang, **Pengyu Xu**, Mingyang Song, Liping Jing (As a Mentor)
