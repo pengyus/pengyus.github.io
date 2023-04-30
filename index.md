@@ -29,44 +29,44 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 ### News:
 - **Filter and Mask: Taming Prompt-based Data Augmentation for Extreme Multi-Label Text Classification**
   <br>
-  **Pengyu Xu**, Bing Liu, Sijin Lu, Ziyi Li, Mingyang Song, Liping Jing, Jian Yu
+  **Pengyu Xu**, Bing Liu, Sijin Lu, Ziyi Li, Mingyang Song, Liping Jing, Jian Yu.
   <br>
   2023 (**Working Paper**) 
 - **Cross-Modal Content Interaction for Tag Recommendation in Software Q&A Websites**
   <br>
-  Sijin Lu\*, **Pengyu Xu\***(\*Equal Contribution, As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu 
+  Sijin Lu\*, **Pengyu Xu\***(\*Equal Contribution, As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.
   <br>
   2023 (**Summited**) 
 
 ### 2023：
 - **Label-Specific Feature Augmentation for Long-Tailed Multi-Label Text Classification**
   <br>
-  **Pengyu Xu**, Lin Xiao, Bing Liu, Sijin Lu, Liping Jing, Jian Yu
+  **Pengyu Xu**, Lin Xiao, Bing Liu, Sijin Lu, Liping Jing, Jian Yu.
   <br>
   AAAI Conference on Artificial Intelligence, 2023 (**Accepted, AAAI, Oral, CCF-A**) 
   [[Code]](https://github.com/stxupengyu/LSFA)  
 - **Textual Tag Recommendation with Multi-tag Topical Attention**
   <br>
-  **Pengyu Xu**, Mingxuan Xia, Lin Xiao, Huafeng Liu, Bing Liu, Liping Jing, Jian Yu
+  **Pengyu Xu**, Mingxuan Xia, Lin Xiao, Huafeng Liu, Bing Liu, Liping Jing, Jian Yu.
   <br>
   Neurocomputing, 2023 (**SCI-An2**)
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231223002990)[[Code]](https://github.com/stxupengyu/TGTR)  
 - **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification**
   <br>
-  Lin Xiao, **Pengyu Xu**, Mingyang Song, Huafeng Liu, Liping Jing, Xiangliang Zhang
+  Lin Xiao, **Pengyu Xu**, Mingyang Song, Huafeng Liu, Liping Jing, Xiangliang Zhang.
   <br>
   IEEE Transactions on Audio Speech and Language Processing, 2023 (**TASLP, CCF-B**) 
   [[Paper]](https://ieeexplore.ieee.org/document/10098206)    
 - **Bootstrap Decomposition Enhanced Orthogonal-Basis Projection Model for Long-Term Time Series Forecasting**
   <br>
-  Xiaoyu Wang, **Pengyu Xu**(As a Mentor), Mingyang Song, Liping Jing  
+  Xiaoyu Wang, **Pengyu Xu**(As a Mentor), Mingyang Song, Liping Jing.
   <br>
   International Joint Conference on Neural Networks, 2023 (**Accepted, IJCNN**) 
 
 ### 2022:
 - **标签推荐方法研究综述(Survey of Tag Recommendation Methods)**
   <br>
-  **徐鹏宇**, 刘华锋, 刘冰, 景丽萍, 于剑
+  **徐鹏宇**, 刘华锋, 刘冰, 景丽萍, 于剑.
   <br>
   软件学报(Journal of Software), 2022 (**Chinese CCF-A**)
   [[Paper]](http://www.jos.org.cn/jos/article/abstract/6481)    
