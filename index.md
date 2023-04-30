@@ -11,7 +11,7 @@ I am currently a second-year CS Ph.D. student at [Beijing Jiaotong University](h
 - In General: Machine Learning, Natural Language Processing, Information Retrieval
 - **Multi-label Learning:** Multi-label Text Classification, Imbalance/Long-tailed/Extreme Classification
 - **Social Media Analysis:** Tag Recommendation/Hashtag Annotation, Keyphrase Generation
-- **Data Augmentation** Deep Generative Model, Large Language Model
+- **Data Augmentation:** Deep Generative Model, Large Language Model
 
 ***
 
@@ -34,7 +34,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   2023 (**Working Paper**) 
 - **Cross-Modal Content Interaction for Tag Recommendation in Software Q&A Websites**
   <br>
-  Sijin Lu\*, **Pengyu Xu\***, Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu (\*Equal Contribution, As a Mentor)
+  Sijin Lu\*, **Pengyu Xu\***(\*Equal Contribution, As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu 
   <br>
   2023 (**Summited**) 
 
@@ -59,7 +59,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   [[Paper]](https://ieeexplore.ieee.org/document/10098206)    
 - **Bootstrap Decomposition Enhanced Orthogonal-Basis Projection Model for Long-Term Time Series Forecasting**
   <br>
-  Xiaoyu Wang, **Pengyu Xu**, Mingyang Song, Liping Jing (As a Mentor)
+  Xiaoyu Wang, **Pengyu Xu**(As a Mentor), Mingyang Song, Liping Jing  
   <br>
   International Joint Conference on Neural Networks, 2023 (**Accepted, IJCNN**) 
 
