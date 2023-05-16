@@ -61,7 +61,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   <br>
   Sijin Lu\*, **Pengyu Xu\***(\*Equal Contribution, As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.
   <br>
-计算机研究与发展 (Journal of Computer Research and Development), 2023 (**Chinese CCF-A, Accepted**)
+计算机研究与发展 (Journal of Computer Research and Development), 2023 (**Accepted, Chinese CCF-A**)
 
 
 ### 2022:
