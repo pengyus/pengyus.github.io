@@ -32,11 +32,6 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   **Pengyu Xu**, Bing Liu, Sijin Lu, Ziyi Li, Mingyang Song, Liping Jing, Jian Yu.
   <br>
   2023 (**Working Paper**) 
-- **Cross-Modal Content Interaction for Tag Recommendation in Software Q&A Websites**
-  <br>
-  Sijin Lu\*, **Pengyu Xu\***(\*Equal Contribution, As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.
-  <br>
-  2023 (**Summited**) 
 
 ### 2023：
 - **Label-Specific Feature Augmentation for Long-Tailed Multi-Label Text Classification**
@@ -62,13 +57,19 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   Xiaoyu Wang, **Pengyu Xu**(As a Mentor), Mingyang Song, Liping Jing.
   <br>
   International Joint Conference on Neural Networks, 2023 (**Accepted, IJCNN**) 
+- **跨模态内容交互驱动的软件问答网站标签推荐 (Cross-Modal Content Interaction for Tag Recommendation in Software Q&A Websites)**
+  <br>
+  Sijin Lu\*, **Pengyu Xu\***(\*Equal Contribution, As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.
+  <br>
+计算机研究与发展 (Journal of Computer Research and Development), 2023 (**Chinese CCF-A, Accepted**)
+
 
 ### 2022:
-- **标签推荐方法研究综述(Survey of Tag Recommendation Methods)**
+- **标签推荐方法研究综述 (Survey of Tag Recommendation Methods)**
   <br>
-  **徐鹏宇**, 刘华锋, 刘冰, 景丽萍, 于剑.
+  **Pengyu Xu**, Huafeng Liu, Bing Liu, Liping Jing, Jian Yu.
   <br>
-  软件学报(Journal of Software), 2022 (**Chinese CCF-A**)
+  软件学报 (Journal of Software), 2022 (**Chinese CCF-A**)
   [[Paper]](http://www.jos.org.cn/jos/article/abstract/6481)    
 - **Semantic Guide for Semi-Supervised Few-Shot Multi-Label Node Classification**
   <br>
