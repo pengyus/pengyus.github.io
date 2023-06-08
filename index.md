@@ -8,7 +8,7 @@ I am currently a second-year CS Ph.D. student at [Beijing Jiaotong University](h
 ***
 
 ## Research Interests
-- In General: Machine Learning, Natural Language Processing, Information Retrieval
+- **In General:** Machine Learning, Natural Language Processing, Information Retrieval
 - **Multi-label Learning:** Multi-label Text Classification, Imbalance/Long-tailed/Extreme Classification
 - **Social Media Analysis:** Tag Recommendation/Hashtag Annotation, Keyphrase Generation
 - **Data Augmentation:** Deep Generative Model, Large Language Model
