@@ -27,57 +27,57 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 
 ## Publications
 ### News:
-- **Taming Prompt-based Data Augmentation for Long-tailed Extreme Multi-Label Text Classification**
-  **Pengyu Xu**, Mingyang Song, Ziyi Li, Jian Liu, Bing Liu, Sijin Lu, Liping Jing, Jian Yu.
-  2023 (**Submitted to EMNLP**) 
-- **Cross-Modal Content Interaction for Tag Recommendation with Retrieval Augmentation**
-  Sijin Lu\*, **Pengyu Xu\***(\*Equal Contribution, As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.
-  2023 (**Working Paper**) 
-- **Pairwise Instance Relation Augmentation for Long-tailed Multi-label Text Classification**
-  Lin Xiao, **Pengyu Xu**, Liping Jing, Xiangliang Zhang.
-  2023 (**Submitted to TKDD**) 
+- **Taming Prompt-based Data Augmentation for Long-tailed Extreme Multi-Label Text Classification**  
+  **Pengyu Xu**, Mingyang Song, Ziyi Li, Jian Liu, Bing Liu, Sijin Lu, Liping Jing, Jian Yu.  
+  2023 (**Submitted to EMNLP**)   
+- **Cross-Modal Content Interaction for Tag Recommendation with Retrieval Augmentation**   
+  Sijin Lu\*, **Pengyu Xu\***(\*Equal Contribution, As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
+  2023 (**Working Paper**)   
+- **Pairwise Instance Relation Augmentation for Long-tailed Multi-label Text Classification**  
+  Lin Xiao, **Pengyu Xu**, Liping Jing, Xiangliang Zhang.  
+  2023 (**Submitted to TKDD**)   
 
 
 ### 2023：
-- **Label-Specific Feature Augmentation for Long-Tailed Multi-Label Text Classification**
-  **Pengyu Xu**, Lin Xiao, Bing Liu, Sijin Lu, Liping Jing, Jian Yu.
-  AAAI Conference on Artificial Intelligence, 2023 (**Accepted, AAAI, Oral, CCF-A**) 
-  [[Code]](https://github.com/stxupengyu/LSFA)  
-- **Textual Tag Recommendation with Multi-tag Topical Attention**
-  **Pengyu Xu**, Mingxuan Xia, Lin Xiao, Huafeng Liu, Bing Liu, Liping Jing, Jian Yu.
-  Neurocomputing, 2023 (**SCI-An2**)
-  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231223002990)[[Code]](https://github.com/stxupengyu/TGTR)  
-- **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification**
-  Lin Xiao, **Pengyu Xu**, Mingyang Song, Huafeng Liu, Liping Jing, Xiangliang Zhang.
-  IEEE Transactions on Audio Speech and Language Processing, 2023 (**TASLP, CCF-B**) 
-  [[Paper]](https://ieeexplore.ieee.org/document/10098206)    
-- **Bootstrap Decomposition Enhanced Orthogonal-Basis Projection Model for Long-Term Time Series Forecasting**
-  Xiaoyu Wang, **Pengyu Xu**(As a Mentor), Mingyang Song, Liping Jing.
-  International Joint Conference on Neural Networks, 2023 (**Accepted, IJCNN**) 
-- **跨模态内容交互驱动的软件问答网站标签推荐 (Cross-Modal Content Interaction for Tag Recommendation in Software Q&A Websites)**
-  Sijin Lu\*, **Pengyu Xu\***(\*Equal Contribution, As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.
-计算机研究与发展 (Journal of Computer Research and Development), 2023 (**Accepted, Chinese CCF-A**)
+- **Label-Specific Feature Augmentation for Long-Tailed Multi-Label Text Classification**  
+  **Pengyu Xu**, Lin Xiao, Bing Liu, Sijin Lu, Liping Jing, Jian Yu.  
+  AAAI Conference on Artificial Intelligence, 2023 (**Accepted, AAAI, Oral, CCF-A**)   
+  [[Code]](https://github.com/stxupengyu/LSFA)    
+- **Textual Tag Recommendation with Multi-tag Topical Attention**   
+  **Pengyu Xu**, Mingxuan Xia, Lin Xiao, Huafeng Liu, Bing Liu, Liping Jing, Jian Yu.  
+  Neurocomputing, 2023 (**SCI-An2**)  
+  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231223002990)[[Code]](https://github.com/stxupengyu/TGTR)    
+- **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification**  
+  Lin Xiao, **Pengyu Xu**, Mingyang Song, Huafeng Liu, Liping Jing, Xiangliang Zhang.  
+  IEEE Transactions on Audio Speech and Language Processing, 2023 (**TASLP, CCF-B**)   
+  [[Paper]](https://ieeexplore.ieee.org/document/10098206)      
+- **Bootstrap Decomposition Enhanced Orthogonal-Basis Projection Model for Long-Term Time Series Forecasting**  
+  Xiaoyu Wang, **Pengyu Xu**(As a Mentor), Mingyang Song, Liping Jing.  
+  International Joint Conference on Neural Networks, 2023 (**Accepted, IJCNN**)   
+- **跨模态内容交互驱动的软件问答网站标签推荐 (Cross-Modal Content Interaction for Tag Recommendation in Software Q&A Websites)**  
+  Sijin Lu\*, **Pengyu Xu\***(\*Equal Contribution, As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
+计算机研究与发展 (Journal of Computer Research and Development), 2023 (**Accepted, Chinese CCF-A**)  
 
 
 ### 2022:
-- **标签推荐方法研究综述 (Survey of Tag Recommendation Methods)**
-  **Pengyu Xu**, Huafeng Liu, Bing Liu, Liping Jing, Jian Yu.
-  软件学报 (Journal of Software), 2022 (**Chinese CCF-A**)
-  [[Paper]](http://www.jos.org.cn/jos/article/abstract/6481)    
-- **Semantic Guide for Semi-Supervised Few-Shot Multi-Label Node Classification**
-  Lin Xiao, **Pengyu Xu**, Liping Jing, Uchenna Akujuobi, Xiangliang Zhang.
-  Information Sciences, 2022 (**CCF-B, SCI-An1**)
-  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025522000111)   
+- **标签推荐方法研究综述 (Survey of Tag Recommendation Methods)**  
+  **Pengyu Xu**, Huafeng Liu, Bing Liu, Liping Jing, Jian Yu.  
+  软件学报 (Journal of Software), 2022 (**Chinese CCF-A**)  
+  [[Paper]](http://www.jos.org.cn/jos/article/abstract/6481)      
+- **Semantic Guide for Semi-Supervised Few-Shot Multi-Label Node Classification**  
+  Lin Xiao, **Pengyu Xu**, Liping Jing, Uchenna Akujuobi, Xiangliang Zhang.  
+  Information Sciences, 2022 (**CCF-B, SCI-An1**)  
+  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025522000111)      
 
 ### 2021:
-- **Interpretable Deep Generative Recommendation Models**
-  Huafeng Liu, Liping Jing, Jingxuan Wen, **Pengyu Xu**, Jiaqi Wang, Jian Yu, Michael K. Ng.
-  Journal of Machine Learning Research, 2021 (**JMLR, CCF-A**)
-  [[Paper]](https://www.jmlr.org/papers/volume22/20-1098/20-1098.pdf) 
-- **Bayesian Additive Matrix Approximation for Social Recommendation**
-  Huafeng Liu, Liping Jing, Jingxuan Wen, **Pengyu Xu**, Jian Yu, and Michael K. Ng.
-  ACM Transactions on Knowledge Discovery From Data, 2021 (**TKDD, CCF-B**)
-  [[Paper]](https://dl.acm.org/doi/10.1145/3451391)  
+- **Interpretable Deep Generative Recommendation Models**  
+  Huafeng Liu, Liping Jing, Jingxuan Wen, **Pengyu Xu**, Jiaqi Wang, Jian Yu, Michael K. Ng.  
+  Journal of Machine Learning Research, 2021 (**JMLR, CCF-A**)  
+  [[Paper]](https://www.jmlr.org/papers/volume22/20-1098/20-1098.pdf)   
+- **Bayesian Additive Matrix Approximation for Social Recommendation**  
+  Huafeng Liu, Liping Jing, Jingxuan Wen, **Pengyu Xu**, Jian Yu, and Michael K. Ng.  
+  ACM Transactions on Knowledge Discovery From Data, 2021 (**TKDD, CCF-B**)  
+  [[Paper]](https://dl.acm.org/doi/10.1145/3451391)    
 
 ***
 
