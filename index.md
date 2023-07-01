@@ -44,7 +44,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 ### 2023：
 - **Label-Specific Feature Augmentation for Long-Tailed Multi-Label Text Classification**  
   **Pengyu Xu**, Lin Xiao, Bing Liu, Sijin Lu, Liping Jing, Jian Yu.  
-  AAAI Conference on Artificial Intelligence, 2023 (**Accepted, AAAI, Oral, CCF-A**)
+  AAAI Conference on Artificial Intelligence, 2023 (**AAAI, Oral, CCF-A**)
   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26259)
   [[Code]](https://github.com/stxupengyu/LSFA)    
 - **Textual Tag Recommendation with Multi-tag Topical Attention**   
