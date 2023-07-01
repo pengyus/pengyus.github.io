@@ -26,13 +26,16 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 ***
 
 ## Publications
+
+\* denotes equal contribution.
 ### News:
-- **Taming Prompt-based Data Augmentation for Long-tailed Extreme Multi-Label Text Classification**  
-  **Pengyu Xu**, Mingyang Song, Ziyi Li, Jian Liu, Bing Liu, Sijin Lu, Liping Jing, Jian Yu.  
+
+- **Cross-Modal Content Interaction with Retrieval Augmentation for Tag Recommendation in Software Q&A Websites **   
+  Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
+  2023 (**Working in Progress**)   
+- **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
+  **Pengyu Xu**, Mingyang Song, Ziyi Li, Bing Liu, Sijin Lu, Hongjian Sun, Liping Jing, Jian Yu.   
   2023 (**Submitted to EMNLP**)   
-- **Cross-Modal Content Interaction for Tag Recommendation with Retrieval Augmentation**   
-  Sijin Lu\*, **Pengyu Xu\***(\*Equal Contribution, As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
-  2023 (**Working Paper**)   
 - **Pairwise Instance Relation Augmentation for Long-tailed Multi-label Text Classification**  
   Lin Xiao, **Pengyu Xu**, Liping Jing, Xiangliang Zhang.  
   2023 (**Submitted to TKDD**)   
@@ -42,6 +45,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 - **Label-Specific Feature Augmentation for Long-Tailed Multi-Label Text Classification**  
   **Pengyu Xu**, Lin Xiao, Bing Liu, Sijin Lu, Liping Jing, Jian Yu.  
   AAAI Conference on Artificial Intelligence, 2023 (**Accepted, AAAI, Oral, CCF-A**)
+  [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26259)
   [[Code]](https://github.com/stxupengyu/LSFA)    
 - **Textual Tag Recommendation with Multi-tag Topical Attention**   
   **Pengyu Xu**, Mingxuan Xia, Lin Xiao, Huafeng Liu, Bing Liu, Liping Jing, Jian Yu.  
@@ -56,7 +60,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   Xiaoyu Wang, **Pengyu Xu**(As a Mentor), Mingyang Song, Liping Jing.  
   International Joint Conference on Neural Networks, 2023 (**Accepted, IJCNN**)   
 - **跨模态内容交互驱动的软件问答网站标签推荐 (Cross-Modal Content Interaction for Tag Recommendation in Software Q&A Websites)**  
-  Sijin Lu\*, **Pengyu Xu\***(\*Equal Contribution, As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
+  Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
 计算机研究与发展 (Journal of Computer Research and Development), 2023 (**Accepted, Chinese CCF-A**)  
 
 
@@ -88,6 +92,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 - **The 18th China Post-Graduate Mathematical Contest in Modeling, The second prize**, 2021.([Award Ratio: 13.4%](https://cpipc.acge.org.cn//cw/detail/4/2c90800c7da2aae7017da35af2db0028))[[Code]](https://github.com/stxupengyu/Air-Quality-Prediction) 
 - **The 17th China Post-Graduate Mathematical Contest in Modeling, The second prize**, 2020.([Award Ratio: 14.6%](https://cpipc.acge.org.cn//cw/detail/4/2c9088a57597479f0175f7ca3ba413de))[[Code]](https://github.com/stxupengyu/P300-BCI-Data-Analysis) 
 
+
 ***
 
 ## Hobbies
@@ -98,4 +103,5 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 ***
 
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
 
