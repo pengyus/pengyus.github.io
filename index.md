@@ -30,7 +30,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 \* denotes equal contribution.
 ### News:
 
-- **Cross-Modal Content Interaction with Retrieval Augmentation for Tag Recommendation in Software Q&A Websites **   
+- **Cross-Modal Content Interaction with Retrieval Augmentation for Tag Recommendation in Software Q&A Websites**   
   Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
   2023 (**Working in Progress**)   
 - **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
