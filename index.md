@@ -87,6 +87,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 ***
 
 ## Honors and Awards
+- **China Scholarship Council (CSC) scholarships**, 2023.
 - **HAOMO.AI Scholarship, School of Computer and Information Technology, Beijing Jiaotong University**, 2022.
 - **First-Class Scholarship of Beijing Jiaotong University**, 2021-2022.
 - **The 18th China Post-Graduate Mathematical Contest in Modeling, The second prize**, 2021.([Award Ratio: 13.4%](https://cpipc.acge.org.cn//cw/detail/4/2c90800c7da2aae7017da35af2db0028))[[Code]](https://github.com/stxupengyu/Air-Quality-Prediction) 
@@ -103,5 +104,4 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 ***
 
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
-
 
