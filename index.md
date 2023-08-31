@@ -3,13 +3,13 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a second-year CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/) (BJTU), advised by Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/). I am interested in the general areas of machine learning and natural language process, with research focuses on long-tailed recognition, multi-label learning and social media analysis (e.g., hashtag annotation, keyphrase generation). I have also developed machine learning methods for real-world problems including container recognition and railway time series forecasting.
+I am currently a third-year CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/) (BJTU), advised by Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/). I am interested in the general areas of machine learning and natural language process, with research focuses on long-tailed recognition, multi-label learning and social media analysis (e.g., hashtag annotation, keyphrase generation). I have also developed machine learning methods for real-world problems including container recognition and railway time series forecasting.
 
 ***
 
 ## Research Interests
 - **In General:** Machine Learning, Natural Language Processing, Information Retrieval
-- **Multi-label Learning:** Multi-label Text Classification, Imbalance/Long-tailed/Extreme Classification
+- **Multi-label Learning:** Multi-label Text Classification, Imbalance/Long-tailed/Extreme Classification, Learning from Noisy Labels
 - **Social Media Analysis:** Tag Recommendation/Hashtag Annotation, Keyphrase Generation
 - **Data Augmentation:** Deep Generative Model, Large Language Model
 
@@ -32,9 +32,12 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 
 - **Cross-Modal Content Interaction with Retrieval Augmentation for Tag Recommendation in Software Q&A Websites**   
   Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
-  2023 (**Working in Progress**)   
+  2023 (**Submitted to ICASSP**)   
 - **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
-  **Pengyu Xu**, Mingyang Song, Ziyi Li, Bing Liu, Sijin Lu, Hongjian Sun, Liping Jing, Jian Yu.   
+  **Pengyu Xu**, Mingyang Song, Ziyi Li, Bing Liu, Sijin Lu, Hongjian Sun, Liping Jing, Jian Yu.  
+  2023 (**Submitted to EMNLP**)   
+- **Calibrating Over-Generation for Unsupervised Keyphrase Extraction with Heterogeneous Centrality Detection** 
+  Mingyang Song, **Pengyu Xu**, Yi Feng, Huafeng Liu, Liping Jing.   
   2023 (**Submitted to EMNLP**)   
 - **Pairwise Instance Relation Augmentation for Long-tailed Multi-label Text Classification**  
   Lin Xiao, **Pengyu Xu**, Liping Jing, Xiangliang Zhang.  
@@ -52,17 +55,14 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   Neurocomputing, 2023 (**SCI-An2**)
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231223002990)
   [[Code]](https://github.com/stxupengyu/TGTR)    
-- **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification**  
+- **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification** 
   Lin Xiao, **Pengyu Xu**, Mingyang Song, Huafeng Liu, Liping Jing, Xiangliang Zhang.  
   IEEE Transactions on Audio Speech and Language Processing, 2023 (**TASLP, CCF-B**)
   [[Paper]](https://ieeexplore.ieee.org/document/10098206)  
 - **Bootstrap Decomposition Enhanced Orthogonal-Basis Projection Model for Long-Term Time Series Forecasting**  
   Xiaoyu Wang, **Pengyu Xu**(As a Mentor), Mingyang Song, Liping Jing.  
-  International Joint Conference on Neural Networks, 2023 (**Accepted, IJCNN**)   
-- **跨模态内容交互驱动的软件问答网站标签推荐 (Cross-Modal Content Interaction for Tag Recommendation in Software Q&A Websites)**  
-  Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
-计算机研究与发展 (Journal of Computer Research and Development), 2023 (**Accepted, Chinese CCF-A**)  
-
+  International Joint Conference on Neural Networks, 2023 (**IJCNN**)
+  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10191976)  
 
 ### 2022:
 - **标签推荐方法研究综述 (Survey of Tag Recommendation Methods)**  
@@ -85,6 +85,10 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   [[Paper]](https://dl.acm.org/doi/10.1145/3451391)    
 
 ***
+## Projects
+- **Research on Real-World Noisy Multi-Label Learning Method, Fundamental Research Funds for Central Universities**, 06.2023-06.2025.
+
+***
 
 ## Honors and Awards
 - **China Scholarship Council (CSC) scholarships**, 2023.
@@ -104,4 +108,5 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 ***
 
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
 
