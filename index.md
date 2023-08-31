@@ -29,10 +29,6 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([Zhixing Honore
 
 \* denotes equal contribution.
 ### News:
-
-- **A Preliminary Exploration of Noisy Multi-label Text Classification under Label-Correlated Noise**  
-  **Pengyu Xu**, Mingyang Song, Ziyi Li, Bing Liu, Sijin Lu, Hongjian Sun, Liping Jing, Jian Yu.   
-  2023 (**Working in Progress**)   
 - **Cross-Modal Content Interaction with Retrieval Augmentation for Tag Recommendation in Software Q&A Websites**   
   Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
   2023 (**Submitted to ICASSP**)   
@@ -42,18 +38,6 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([Zhixing Honore
 - **Calibrating Over-Generation for Unsupervised Keyphrase Extraction with Heterogeneous Centrality Detection** 
   Mingyang Song, **Pengyu Xu**, Yi Feng, Huafeng Liu, Liping Jing.   
   2023 (**Submitted to EMNLP**)   
-- **Pairwise Instance Relation Augmentation for Long-tailed Multi-label Text Classification**  
-  Lin Xiao, **Pengyu Xu**, Liping Jing, Xiangliang Zhang.  
-  2023 (**Submitted to TKDD**)   
-- **跨模态内容交互驱动的软件问答网站标签推荐 (Cross-Modal Content Interaction for Tag Recommendation in Software Q&A Websites)**   
-Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
-2023 (**Working in Progress**)   
-- **序列标签推荐 (Sequencial Tag Recommendation)**   
-Bing Liu\*, **Pengyu Xu\***(As a Mentor), SIjin Lu, Hongjian Sun, Liping Jing.  
-2023 (**Working in Progress**)   
-- **基于双流自编码器的多标签分类 (Multi-Label Classification based on Dual-Stream Autoencoders)**   
-Hongjian Sun\*, **Pengyu Xu\***(As a Mentor), Sijin Lu, Bing Liu, Liping Jing, Jian Yu.  
-2023 (**Working in Progress**)   
 
 
 ### 2023：
@@ -101,7 +85,7 @@ Hongjian Sun\*, **Pengyu Xu\***(As a Mentor), Sijin Lu, Bing Liu, Liping Jing, J
 ***
 
 ## Projects
-- **Research on Real-World Noisy Multi-Label Learning Method, Fundamental Research Funds for Central Universities**, 06.2023-06.2025.
+- **Research on Real-World Noisy Multi-Label Learning Method, Fundamental Research Funds for Central Universities**, 06/2023-06/2025.
 
 
 ***
@@ -124,5 +108,8 @@ Hongjian Sun\*, **Pengyu Xu\***(As a Mentor), Sijin Lu, Bing Liu, Liping Jing, J
 ***
 
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
+
+
 
 
