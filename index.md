@@ -21,7 +21,7 @@ Beijing Jiaotong University, Computer Science. Supervisor: Prof. [Liping Jing](h
 - 2019 - 2021, Master student  
 Beijing Jiaotong University, Statistics.
 - 2015 - 2019, B.S.  
-Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](http://sci.bjtu.edu.cn/cms/item/157.html)).
+Beijing Jiaotong University, Mathematics and Applied Mathematics([Zhixing Honored Class](http://sci.bjtu.edu.cn/cms/item/157.html)).
 
 ***
 
@@ -30,11 +30,14 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 \* denotes equal contribution.
 ### News:
 
+- **A Preliminary Exploration of Noisy Multi-label Text Classification under Label-Correlated Noise**  
+  **Pengyu Xu**, Mingyang Song, Ziyi Li, Bing Liu, Sijin Lu, Hongjian Sun, Liping Jing, Jian Yu.   
+  2023 (**Working in Progress**)   
 - **Cross-Modal Content Interaction with Retrieval Augmentation for Tag Recommendation in Software Q&A Websites**   
   Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
   2023 (**Submitted to ICASSP**)   
 - **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
-  **Pengyu Xu**, Mingyang Song, Ziyi Li, Bing Liu, Sijin Lu, Hongjian Sun, Liping Jing, Jian Yu.  
+  **Pengyu Xu**, Mingyang Song, Ziyi Li, Bing Liu, Sijin Lu, Hongjian Sun, Liping Jing, Jian Yu.   
   2023 (**Submitted to EMNLP**)   
 - **Calibrating Over-Generation for Unsupervised Keyphrase Extraction with Heterogeneous Centrality Detection** 
   Mingyang Song, **Pengyu Xu**, Yi Feng, Huafeng Liu, Liping Jing.   
@@ -42,6 +45,15 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
 - **Pairwise Instance Relation Augmentation for Long-tailed Multi-label Text Classification**  
   Lin Xiao, **Pengyu Xu**, Liping Jing, Xiangliang Zhang.  
   2023 (**Submitted to TKDD**)   
+- **跨模态内容交互驱动的软件问答网站标签推荐 (Cross-Modal Content Interaction for Tag Recommendation in Software Q&A Websites)**   
+Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
+2023 (**Working in Progress**)   
+- **序列标签推荐 (Sequencial Tag Recommendation)**   
+Bing Liu\*, **Pengyu Xu\***(As a Mentor), SIjin Lu, Hongjian Sun, Liping Jing.  
+2023 (**Working in Progress**)   
+- **基于双流自编码器的多标签分类 (Multi-Label Classification based on Dual-Stream Autoencoders)**   
+Hongjian Sun\*, **Pengyu Xu\***(As a Mentor), Sijin Lu, Bing Liu, Liping Jing, Jian Yu.  
+2023 (**Working in Progress**)   
 
 
 ### 2023：
@@ -55,7 +67,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   Neurocomputing, 2023 (**SCI-An2**)
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231223002990)
   [[Code]](https://github.com/stxupengyu/TGTR)    
-- **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification** 
+- **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification**  
   Lin Xiao, **Pengyu Xu**, Mingyang Song, Huafeng Liu, Liping Jing, Xiangliang Zhang.  
   IEEE Transactions on Audio Speech and Language Processing, 2023 (**TASLP, CCF-B**)
   [[Paper]](https://ieeexplore.ieee.org/document/10098206)  
@@ -84,9 +96,13 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics([知行班](htt
   ACM Transactions on Knowledge Discovery From Data, 2021 (**TKDD, CCF-B**)
   [[Paper]](https://dl.acm.org/doi/10.1145/3451391)    
 
+
+
 ***
+
 ## Projects
 - **Research on Real-World Noisy Multi-Label Learning Method, Fundamental Research Funds for Central Universities**, 06.2023-06.2025.
+
 
 ***
 
