@@ -4,8 +4,9 @@ layout: homepage
 
 ## About Me
 I am currently a third-year CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/) (BJTU), advised by Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
+
 I am interested in the general areas of machine learning and natural language process, with research focuses on long-tailed recognition, multi-label learning and social media analysis (e.g., hashtag annotation, keyphrase generation). I have also developed machine learning methods for real-world problems including container recognition and railway time series forecasting. 
-I enjoy engaging in academic exchanges and collaborations. Within our laboratory, I lead a small group that focuses on multi-label learning and its applications. This group consists of several Ph.D. ,master's, and undergraduate students.
+I enjoy engaging in academic exchanges and collaborations. In our laboratory, I lead a small group that focuses on multi-label learning and its applications. This group consists of several Ph.D. ,master's, and undergraduate students.
 
 ***
 
@@ -40,7 +41,6 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honor
 - **Cross-Modal Content Interaction with Retrieval Augmentation for Tag Recommendation in Software Q&A Websites**   
   Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
   2023 (**Submitted to ICASSP**)   
-  
 
 ### 2023：
 - **Label-Specific Feature Augmentation for Long-Tailed Multi-Label Text Classification**  
@@ -141,16 +141,6 @@ of China Railway Express, **China Railway Container Transport Corp.,Ltd**, PI, 0
 
 
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
-
-
-
-
-
-
-
-
-
-
 
 
 
