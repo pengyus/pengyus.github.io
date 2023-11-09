@@ -34,9 +34,6 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honor
 
 \* denotes equal contribution.
 ### News:
-- **A Preliminary Exploration of Noisy Multi-label Text Classification under Label-Correlated Noise**  
-  **Pengyu Xu**, Mingyang Song, Ziyi Li, Bing Liu, Sijin Lu, Hongjian Sun, Liping Jing, Jian Yu.   
-  2023 (**Submitted to ACL Rolling Review**)   
 - **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
   **Pengyu Xu**, Mingyang Song, Ziyi Li, Bing Liu, Sijin Lu, Hongjian Sun, Liping Jing, Jian Yu.   
   2023 (**Submitted to ICASSP**)    
@@ -122,7 +119,7 @@ of China Railway Express, **China Railway Container Transport Corp.,Ltd**, PI, 0
 ### Master Guidance
 
 - Xiaoyu Wang (2021-2024), Thesis: Nonlinear long-term time series forecasting. Next position: Phd Student at University of Leeds.
-- Sijin Lu (2022- ), Research: Incomplete multi-modal multi-label learning. Next position: Phd Student at BJTU.
+- Sijin Lu (2022-2024), Research: Incomplete multi-modal multi-label learning. Next position: Phd Student at BJTU.
 - Bing Liu (2022- ), Research: Sequential tag recommendation.
 - Hongjian Sun (2023- ), Research: Multi-label Continual learning.
 
