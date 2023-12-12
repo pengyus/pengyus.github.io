@@ -36,13 +36,13 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 \* denotes equal contribution.
 ### News:  
-- **Noisy Multi-Label Text Classification via Instance-Label Pair Correction**
-**Pengyu Xu**, Mingyang Song, Liping Jing, Jian Yu.
+- **Noisy Multi-Label Text Classification via Instance-Label Pair Correction**  
+**Pengyu Xu**, Mingyang Song, Liping Jing, Jian Yu.  
 2023 (**Submitted to ACL Rolling Review**)
 
 ### 2024:
-- **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**
-**Pengyu Xu**, Mingyang Song, Ziyi Li, Sijin Lu, Liping Jing, Jian Yu.
+- **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
+**Pengyu Xu**, Mingyang Song, Ziyi Li, Sijin Lu, Liping Jing, Jian Yu.  
 IEEE International Conference on Acoustics, Speech, and Signal Processing, 2023 (**ICASSP, CCF-B, accepted**)
 
 ### 2023：
@@ -51,7 +51,7 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing, 2023 
   AAAI Conference on Artificial Intelligence, 2023 (**AAAI, Oral, CCF-A**)
   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26259)
   [[Code]](https://github.com/stxupengyu/LSFA)    
-- **Textual Tag Recommendation with Multi-tag Topical Attention** 
+- **Textual Tag Recommendation with Multi-tag Topical Attention**  
   **Pengyu Xu**, Mingxuan Xia, Lin Xiao, Huafeng Liu, Bing Liu, Liping Jing, Jian Yu.  
   Neurocomputing, 2023 (**SCI-An2**)
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231223002990)
