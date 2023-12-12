@@ -13,7 +13,7 @@ I enjoy engaging in academic exchanges and collaborations. In our laboratory, I 
 
 ## Research Interests
 - **In General:** Machine Learning, Natural Language Processing, Information Retrieval
-- **Multi-label Learning:** Multi-label Text Classification, Imbalance/Long-tailed/Extreme Classification, Learning from Noisy Labels
+- **Multi-label Learning:**  Multi-Label/Imbalance/Long-tailed/Extreme Classification, Learning from Noisy Labels
 - **Social Media Analysis:** Tag Recommendation/Hashtag Annotation, Keyphrase Generation
 - **Data Augmentation:** Deep Generative Model, Large Language Model
 
@@ -28,21 +28,22 @@ Beijing Jiaotong University, Computer Science. Supervisor: Prof. [Liping Jing](h
 - 2019 - 2021, Master student  
 Beijing Jiaotong University, Statistics.
 - 2015 - 2019, B.S.  
-Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honored Class](http://sci.bjtu.edu.cn/cms/item/157.html)).
+Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honour Program](http://sci.bjtu.edu.cn/cms/item/157.html)).
 
 ***
 
 ## Publications
 
 \* denotes equal contribution.
-### News:
-- **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
-  **Pengyu Xu**, Mingyang Song, Ziyi Li, Bing Liu, Sijin Lu, Hongjian Sun, Liping Jing, Jian Yu.   
-  2023 (**Submitted to ICASSP**)    
-- **Cross-Modal Content Interaction with Retrieval Augmentation for Tag Recommendation in Software Q&A Websites**   
-  Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
-  2023 (**Submitted to ICASSP**)   
+### News:  
+- **Noisy Multi-Label Text Classification via Instance-Label Pair Correction**
+**Pengyu Xu**, Mingyang Song, Liping Jing, Jian Yu.
+2023 (**Submitted to ACL Rolling Review**)
 
+### 2024:
+- **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**
+**Pengyu Xu**, Mingyang Song, Ziyi Li, Sijin Lu, Liping Jing, Jian Yu.
+IEEE International Conference on Acoustics, Speech, and Signal Processing, 2023 (**ICASSP, CCF-B, accepted**)
 
 ### 2023：
 - **Label-Specific Feature Augmentation for Long-Tailed Multi-Label Text Classification**  
@@ -50,12 +51,12 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honor
   AAAI Conference on Artificial Intelligence, 2023 (**AAAI, Oral, CCF-A**)
   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26259)
   [[Code]](https://github.com/stxupengyu/LSFA)    
-- **Textual Tag Recommendation with Multi-tag Topical Attention**   
+- **Textual Tag Recommendation with Multi-tag Topical Attention** 
   **Pengyu Xu**, Mingxuan Xia, Lin Xiao, Huafeng Liu, Bing Liu, Liping Jing, Jian Yu.  
   Neurocomputing, 2023 (**SCI-An2**)
   [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231223002990)
   [[Code]](https://github.com/stxupengyu/TGTR)    
-- **Calibrating Over-Generation for Unsupervised Keyphrase Extraction with Heterogeneous Centrality Detection** 
+- **Mitigating Over-generation for Unsupervised Keyphrase Extraction with Heterogeneous Centrality Detection**    
   Mingyang Song, **Pengyu Xu**, Yi Feng, Huafeng Liu, Liping Jing.   
   Empirical Methods in Natural Language Processing, 2023 (**EMNLP, CCF-B, accepted**)
 - **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification**  
@@ -99,7 +100,7 @@ of China Railway Express, **China Railway Container Transport Corp.,Ltd**, PI, 0
 ***
 
 ## Honors and Awards
-- **China Scholarship Council (CSC) scholarships**, 2023.
+- **National Scholarship for Studying Abroad, China Scholarship Council (CSC)**, 2023.
 - **HAOMO.AI Scholarship, School of Computer and Information Technology, Beijing Jiaotong University**, 2022.
 - **First-Class Scholarship of Beijing Jiaotong University**, 2021, 2022, 2023.
 - **The 18th China Post-Graduate Mathematical Contest in Modeling, The second prize**, 2021.([Award Ratio: 13.4%](https://cpipc.acge.org.cn//cw/detail/4/2c90800c7da2aae7017da35af2db0028))[[Code]](https://github.com/stxupengyu/Air-Quality-Prediction) 
@@ -143,3 +144,16 @@ of China Railway Express, **China Railway Container Transport Corp.,Ltd**, PI, 0
 
 
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
