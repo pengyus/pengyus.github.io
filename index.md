@@ -38,7 +38,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 \* denotes equal contribution.
 ### News:  
-- **Noisy Multi-Label Text Classification under Label-Dependent Noise**
+- **Noisy Multi-Label Text Classification under Label-Dependent Noise**  
 **Pengyu Xu**, Mingyang Song, Liping Jing, Jian Yu.
 2024 (**Working in Progress**)  
 - **Noisy Multi-Label Text Classification via Instance-Label Pair Correction**  
