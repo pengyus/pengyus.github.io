@@ -3,11 +3,12 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a third-year CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/) (BJTU), advised by Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
+I am currently a third-year CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/) (BJTU), Beijing, China, advised by Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
+And I am currently a visiting Ph.D. student at SCSE, [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. 
 
-I am interested in the general areas of machine learning and natural language process, with research focuses on long-tailed recognition, multi-label learning and social media analysis (e.g., hashtag annotation, keyphrase generation). I have also developed machine learning methods for real-world problems including container recognition and railway time series forecasting. 
+My research interests lie in the broad domains of machine learning and natural language processing, with a focus on long-tailed recognition, multi-label learning and social media analysis (e.g., hashtag annotation, keyphrase generation). I have also applied machine learning techniques to solve real-world problems such as container recognition and railway time series forecasting.
 
-I enjoy engaging in academic exchanges and collaborations. In our laboratory, I lead a small group that focuses on multi-label learning and its applications. This group consists of several Ph.D. ,master's, and undergraduate students.
+I like to participate in academic discussions and collaborations. In our lab, I lead a small team that works on multi-label learning and its applications. This team consists of several Ph.D., master's, and undergraduate students.
 
 ***
 
@@ -20,14 +21,15 @@ I enjoy engaging in academic exchanges and collaborations. In our laboratory, I 
 ***
 
 
-
-
 ## Education
-- 2021 - Now, Ph.D. student  
+- Jan. 2024 - Now, Visting Ph.D. student  
+Nanyang Technological University, School of Computer Science and Engineering. 
+Supervisor: Dr. [Fang Li](https://dr.ntu.edu.sg/cris/rp/rp01161), Prof. [Chee Keong Kwoh](https://scholar.google.com.hk/citations?user=jVn0wDMAAAAJ&hl=zh-CN&oi=ao) and Dr. [Lei Feng](https://lfeng-ntu.github.io/).
+- Sep. 2021 - Now, Ph.D. student  
 Beijing Jiaotong University, Computer Science. Supervisor: Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
-- 2019 - 2021, Master student  
+- Sep. 2019 - Jun. 2021, Master student  
 Beijing Jiaotong University, Statistics.
-- 2015 - 2019, B.S.  
+- Sep. 2015 - Jun. 2019, B.S.  
 Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honour Program](http://sci.bjtu.edu.cn/cms/item/157.html)).
 
 ***
@@ -36,14 +38,19 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 \* denotes equal contribution.
 ### News:  
+- **Noisy Multi-Label Text Classification under Label-Dependent Noise**
+**Pengyu Xu**, Mingyang Song, Liping Jing, Jian Yu.
+2024 (**Working in Progress**)  
 - **Noisy Multi-Label Text Classification via Instance-Label Pair Correction**  
-**Pengyu Xu**, Mingyang Song, Liping Jing, Jian Yu.  
-2023 (**Submitted to ACL Rolling Review**)
+**Pengyu Xu**, Mingyang Song, Linkaida Liu, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
+2024 (**NAACL, Under Review**)
+
 
 ### 2024:
 - **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
 **Pengyu Xu**, Mingyang Song, Ziyi Li, Sijin Lu, Liping Jing, Jian Yu.  
-IEEE International Conference on Acoustics, Speech, and Signal Processing, 2023 (**ICASSP, CCF-B, accepted**)
+IEEE International Conference on Acoustics, Speech, and Signal Processing, 2024 (**ICASSP, CCF-B, accepted**)
+
 
 ### 2023：
 - **Label-Specific Feature Augmentation for Long-Tailed Multi-Label Text Classification**  
@@ -58,7 +65,10 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing, 2023 
   [[Code]](https://github.com/stxupengyu/TGTR)    
 - **Mitigating Over-generation for Unsupervised Keyphrase Extraction with Heterogeneous Centrality Detection**    
   Mingyang Song, **Pengyu Xu**, Yi Feng, Huafeng Liu, Liping Jing.   
-  Empirical Methods in Natural Language Processing, 2023 (**EMNLP, CCF-B, accepted**)
+  Empirical Methods in Natural Language Processing, 2023 (**EMNLP, CCF-B**)
+  [[Paper]](https://aclanthology.org/2023.emnlp-main.1017/)
+
+
 - **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification**  
   Lin Xiao, **Pengyu Xu**, Mingyang Song, Huafeng Liu, Liping Jing, Xiangliang Zhang.  
   IEEE Transactions on Audio Speech and Language Processing, 2023 (**TASLP, CCF-B**)
@@ -95,7 +105,7 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing, 2023 
 ## Projects
 - Research on Real-World Noisy Multi-Label Learning Method, **Fundamental Research Funds for Central Universities**, PI, 06/2023-06/2025.
 - Container Identification and Big Data Analysis 
-of China Railway Express, **China Railway Container Transport Corp.,Ltd**, PI, 01/2022-01/2023.
+of China Railway Express, **China Railway Container Transport Corp., Ltd**, PI, 01/2022-01/2023.
 
 ***
 
@@ -106,23 +116,21 @@ of China Railway Express, **China Railway Container Transport Corp.,Ltd**, PI, 0
 - **The 18th China Post-Graduate Mathematical Contest in Modeling, The second prize**, 2021.([Award Ratio: 13.4%](https://cpipc.acge.org.cn//cw/detail/4/2c90800c7da2aae7017da35af2db0028))[[Code]](https://github.com/stxupengyu/Air-Quality-Prediction) 
 - **The 17th China Post-Graduate Mathematical Contest in Modeling, The second prize**, 2020.([Award Ratio: 14.6%](https://cpipc.acge.org.cn//cw/detail/4/2c9088a57597479f0175f7ca3ba413de))[[Code]](https://github.com/stxupengyu/P300-BCI-Data-Analysis) 
 
-
-
 ***
 
 ## Professional Services
 
 ### Conference Reviewer
 
-- ACL Rolling Review (ARR) 2023
+- ACL/NAACL/EACL 
 
 ### Ph.D Guidance
 - Xiaomeng Li (2023- ), Research: Fine-grained topic modeling based on LLM.
 
 ### Master Guidance
 
-- Xiaoyu Wang (2021-2024), Thesis: Nonlinear long-term time series forecasting. Next position: Phd Student at University of Leeds.
-- Sijin Lu (2022-2024), Research: Incomplete multi-modal multi-label learning. Next position: Phd Student at BJTU.
+- Xiaoyu Wang (2021-2024), Thesis: Nonlinear long-term time series forecasting. Next position: Ph.D. Student at University of Leeds.
+- Sijin Lu (2022-2024), Research: Incomplete multi-modal multi-label learning. Next position: Ph.D. Student at BJTU.
 - Bing Liu (2022- ), Research: Sequential tag recommendation.
 - Hongjian Sun (2023- ), Research: Multi-label Continual learning.
 
@@ -141,19 +149,5 @@ of China Railway Express, **China Railway Container Transport Corp.,Ltd**, PI, 0
 
 ***
 
-
-
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
-
-
-
-
-
-
-
-
-
-
-
-
 
