@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 I am currently a third-year CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/) (BJTU), Beijing, China, advised by Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
-And I am currently a visiting Ph.D. student at SCSE, [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. 
+And I am currently a visiting Ph.D. student at SCSE, [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore. 
 
 My research interests lie in the broad domains of machine learning and natural language processing, with a focus on long-tailed recognition, multi-label learning and social media analysis (e.g., hashtag annotation, keyphrase generation). I have also applied machine learning techniques to solve real-world problems such as container recognition and railway time series forecasting.
 
@@ -15,8 +15,7 @@ I like to participate in academic discussions and collaborations. In our lab, I 
 ## Research Interests
 - **In General:** Machine Learning, Natural Language Processing, Information Retrieval
 - **Multi-label Learning:**  Multi-Label/Imbalance/Long-tailed/Extreme Classification, Learning from Noisy Labels
-- **Social Media Analysis:** Tag Recommendation/Hashtag Annotation, Keyphrase Generation
-- **Data Augmentation:** Deep Generative Model, Large Language Model
+- **Social Media Analysis:** Tag Recommendation/Hashtag Annotation, Keyphrase Generation, Multi-Modal Learning 
 
 ***
 
@@ -24,7 +23,7 @@ I like to participate in academic discussions and collaborations. In our lab, I 
 ## Education
 - Jan. 2024 - Now, Visting Ph.D. student  
 Nanyang Technological University, School of Computer Science and Engineering. 
-Supervisor: Dr. [Fang Li](https://dr.ntu.edu.sg/cris/rp/rp01161), Prof. [Chee Keong Kwoh](https://scholar.google.com.hk/citations?user=jVn0wDMAAAAJ&hl=zh-CN&oi=ao) and Dr. [Lei Feng](https://lfeng-ntu.github.io/).
+Supervisor: Dr. [Lei Feng](https://lfeng-ntu.github.io/), Prof. [Chee Keong Kwoh](https://scholar.google.com.hk/citations?user=jVn0wDMAAAAJ&hl=zh-CN&oi=ao) and Dr. [Fang Li](https://dr.ntu.edu.sg/cris/rp/rp01161).
 - Sep. 2021 - Now, Ph.D. student  
 Beijing Jiaotong University, Computer Science. Supervisor: Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
 - Sep. 2019 - Jun. 2021, Master student  
@@ -38,15 +37,18 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 \* denotes equal contribution.
 ### News:  
-- **Noisy Multi-Label Text Classification under Label-Dependent Noise**  
-**Pengyu Xu**, Mingyang Song, Liping Jing, Jian Yu.  
+- **Unsupervised Multi-Modal Multi-Label Classification**  
+**Pengyu Xu**, Lei Feng, Chee Keong Kwoh, Fang Li, Zhuoyi Lin, Liping Jing, Jian Yu.  
 2024 (**Working in Progress**)  
-- **Noisy Multi-Label Text Classification via Instance-Label Pair Correction**  
-**Pengyu Xu**, Mingyang Song, Linkaida Liu, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
-2024 (**NAACL, Under Review**)
+- **Noisy Multi-Label Text Classification under Label-Dependent Noise**  
+**Pengyu Xu**, Liping Jing, Jian Yu.  
+2024 (**Working in Progress**)  
 
 
 ### 2024:
+- **Noisy Multi-Label Text Classification via Instance-Label Pair Correction**  
+**Pengyu Xu**, Mingyang Song, Linkaida Liu, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
+Findings of North American Chapter of the Association for Computational Linguistics, 2024 (**NAACL, CCF-B, accepted**)  
 - **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
 **Pengyu Xu**, Mingyang Song, Ziyi Li, Sijin Lu, Liping Jing, Jian Yu.  
 IEEE International Conference on Acoustics, Speech, and Signal Processing, 2024 (**ICASSP, CCF-B, accepted**)
@@ -66,9 +68,7 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing, 2024 
 - **Mitigating Over-generation for Unsupervised Keyphrase Extraction with Heterogeneous Centrality Detection**    
   Mingyang Song, **Pengyu Xu**, Yi Feng, Huafeng Liu, Liping Jing.   
   Empirical Methods in Natural Language Processing, 2023 (**EMNLP, CCF-B**)
-  [[Paper]](https://aclanthology.org/2023.emnlp-main.1017/)
-
-
+  [[Paper]](https://aclanthology.org/2023.emnlp-main.1017/)  
 - **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification**  
   Lin Xiao, **Pengyu Xu**, Mingyang Song, Huafeng Liu, Liping Jing, Xiangliang Zhang.  
   IEEE Transactions on Audio Speech and Language Processing, 2023 (**TASLP, CCF-B**)
@@ -103,7 +103,7 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing, 2024 
 ***
 
 ## Projects
-- Research on Real-World Noisy Multi-Label Learning Method, **Fundamental Research Funds for Central Universities**, PI, 06/2023-06/2025.
+- Research on Real-World Noisy Multi-Label Learning Method, **Fundamental Research Funds for Central Universities**, PI, 06/2023-01/2025.
 - Container Identification and Big Data Analysis 
 of China Railway Express, **China Railway Container Transport Corp., Ltd**, PI, 01/2022-01/2023.
 
@@ -143,11 +143,13 @@ of China Railway Express, **China Railway Container Transport Corp., Ltd**, PI, 
 ***
 
 ## Hobbies
-- **Reading:** especially like books on business, psychology, history and biography.  
+- **Reading:** especially like books on business, psychology, history, society and biography.  
 - **Sports:** fitness, swimming and skiing.  
-- **Arts:** drama, talk show, rap and host. 
+- **Arts:** movie, drama, talk show, rap and host. 
+- **TV shows:** include Breaking Bad, House of Card, Silicon Valley, R&M, Futurama, TBBT, GoT, HIMYM, Friends.
 
 ***
 
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
 
