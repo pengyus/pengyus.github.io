@@ -15,7 +15,7 @@ I like to participate in academic discussions and collaborations. In our lab, I 
 ## Research Interests
 - **In General:** Machine Learning, Natural Language Processing, Information Retrieval
 - **Multi-label Learning:**  Multi-Label/Imbalance/Long-tailed/Extreme Classification, Learning from Noisy Labels
-- **Social Media Analysis:** Tag Recommendation/Hashtag Annotation, Keyphrase Generation, Multi-Modal Learning 
+- **Social Media Analysis:** Tag Recommendation/Hashtag Annotation, Keyphrase Generation, Multi-Modal Learning, LLM
 
 ***
 
@@ -23,7 +23,7 @@ I like to participate in academic discussions and collaborations. In our lab, I 
 ## Education
 - Jan. 2024 - Now, Visting Ph.D. student  
 Nanyang Technological University, School of Computer Science and Engineering. 
-Supervisor: Dr. [Lei Feng](https://lfeng-ntu.github.io/), Prof. [Chee Keong Kwoh](https://scholar.google.com.hk/citations?user=jVn0wDMAAAAJ&hl=zh-CN&oi=ao) and Dr. [Fang Li](https://dr.ntu.edu.sg/cris/rp/rp01161).
+Supervisor: Prof. [Lei Feng](https://lfeng-ntu.github.io/), Prof. [Chee Keong Kwoh](https://scholar.google.com.hk/citations?user=jVn0wDMAAAAJ&hl=zh-CN&oi=ao) and Dr. [Fang Li](https://dr.ntu.edu.sg/cris/rp/rp01161).
 - Sep. 2021 - Now, Ph.D. student  
 Beijing Jiaotong University, Computer Science. Supervisor: Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
 - Sep. 2019 - Jun. 2021, Master student  
@@ -40,18 +40,30 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 - **Unsupervised Multi-Modal Multi-Label Classification**  
 **Pengyu Xu**, Lei Feng, Chee Keong Kwoh, Fang Li, Zhuoyi Lin, Liping Jing, Jian Yu.  
 2024 (**Working in Progress**)  
-- **Noisy Multi-Label Text Classification under Label-Dependent Noise**  
+- **Enhancing Noisy Multi-label Text Classification under Label-Dependent Noise: A Label-Specific Denoising Framework**  
 **Pengyu Xu**, Liping Jing, Jian Yu.  
-2024 (**Working in Progress**)  
+2024 (**Submitted to EMNLP**)  
+- **Sequential Tag Recommendation via Target Guided Long-Short Term User Preference**  
+Bing Liu\*, **Pengyu Xu\***(As a Mentor), Shijing Wang, Hongjian Sun, Liping Jing
+2024 (**Submitted to CIKM**)  
+- **Prototype-Driven Cross-Modal Alignment for Multi-Label Zero-Shot Learning**  
+Jing Liang, **Pengyu Xu**(As a Mentor), Songhe Feng.  
+2024 (**Submitted to MM**)
+
 
 
 ### 2024:
 - **Noisy Multi-Label Text Classification via Instance-Label Pair Correction**  
 **Pengyu Xu**, Mingyang Song, Linkaida Liu, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
-Findings of North American Chapter of the Association for Computational Linguistics, 2024 (**NAACL, CCF-B, accepted**)  
+Findings of North American Chapter of the Association for Computational Linguistics, 2024 (**NAACL, CCF-B, accepted**)
 - **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
 **Pengyu Xu**, Mingyang Song, Ziyi Li, Sijin Lu, Liping Jing, Jian Yu.  
-IEEE International Conference on Acoustics, Speech, and Signal Processing, 2024 (**ICASSP, CCF-B, accepted**)
+IEEE International Conference on Acoustics, Speech, and Signal Processing, 2024 (**ICASSP, CCF-B**)
+  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10446315)
+  [[Code]](https://github.com/stxupengyu/XDA)   
+- **基于双流自编码器的多标签分类 (Multi-Label Classification based on Dual-Stream Autoencoders)**   
+Hongjian Sun\*, **Pengyu Xu\***(As a Mentor), Sijin Lu, Bing Liu, Liping Jing, Jian Yu.    
+计算机科学与探索 (Journal of Frontiers of Computer Science and Technology), 2024 (**Chinese CCF-B, accepted**)
 
 
 ### 2023：
@@ -120,9 +132,14 @@ of China Railway Express, **China Railway Container Transport Corp., Ltd**, PI, 
 
 ## Professional Services
 
+### Journal Reviewer
+
+- TKDE
+
 ### Conference Reviewer
 
 - ACL/NAACL/EACL 
+- NLPCC
 
 ### Ph.D Guidance
 - Xiaomeng Li (2023- ), Research: Fine-grained topic modeling based on LLM.
@@ -137,7 +154,7 @@ of China Railway Express, **China Railway Container Transport Corp., Ltd**, PI, 
 ### Undergraduate Guidance
 
 - Jianyang Cheng (2023-2024), Thesis: Topic-Aware Noisy Text Classification.
-- Hao Zhang, Linkaida Liu, Yunpeng Shi (2023- ), College Students' Innovation Project: Uncovering Noisy Labels in Container Scene Recognition.
+- Hao Zhang, Linkaida Liu, Yunpeng Shi (2023- ), College Students' Innovation Project: Uncovering Noisy Labels in Container Scene Recognition. Province-level (Top 20%)
 
 
 ***
