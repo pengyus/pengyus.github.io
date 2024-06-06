@@ -44,10 +44,10 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 **Pengyu Xu**, Liping Jing, Jian Yu.  
 2024 (**Submitted to EMNLP**)  
 - **Sequential Tag Recommendation via Target Guided Long-Short Term User Preference**  
-Bing Liu\*, **Pengyu Xu\***(As a Mentor), Shijing Wang, Hongjian Sun, Liping Jing
+Bing Liu\*, **Pengyu Xu\***(As a Mentor), Shijing Wang, Hongjian Sun, Liping Jing.   
 2024 (**Submitted to CIKM**)  
 - **Prototype-Driven Cross-Modal Alignment for Multi-Label Zero-Shot Learning**  
-Jing Liang, **Pengyu Xu**(As a Mentor), Songhe Feng.  
+Jing Liang, **Pengyu Xu**(As a Mentor), Songhe Feng.   
 2024 (**Submitted to MM**)
 
 
