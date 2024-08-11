@@ -3,12 +3,12 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a third-year CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/) (BJTU), Beijing, China, advised by Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
-And I am currently a visiting Ph.D. student at SCSE, [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore. 
+I am a CS Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn/) (BJTU), Beijing, China, advised by Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
+And I am currently a visiting Ph.D. student at CCDS, [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore. 
 
 My research interests lie in the broad domains of machine learning and natural language processing, with a focus on long-tailed recognition, multi-label learning and social media analysis (e.g., hashtag annotation, keyphrase generation). I have also applied machine learning techniques to solve real-world problems such as container recognition and railway time series forecasting.
 
-I like to participate in academic discussions and collaborations. In our lab, I lead a small team that works on multi-label learning and its applications. This team consists of several Ph.D., master's, and undergraduate students.
+I like to participate in academic discussions and collaborations. In our lab, I lead a small team that works on multi-label learning and its applications. 
 
 ***
 
@@ -22,7 +22,7 @@ I like to participate in academic discussions and collaborations. In our lab, I 
 
 ## Education
 - Jan. 2024 - Now, Visting Ph.D. student  
-Nanyang Technological University, School of Computer Science and Engineering. 
+Nanyang Technological University, College of Computing and Data Science (CCDS). 
 Supervisor: Prof. [Lei Feng](https://lfeng-ntu.github.io/), Prof. [Chee Keong Kwoh](https://scholar.google.com.hk/citations?user=jVn0wDMAAAAJ&hl=zh-CN&oi=ao) and Dr. [Fang Li](https://dr.ntu.edu.sg/cris/rp/rp01161).
 - Sep. 2021 - Now, Ph.D. student  
 Beijing Jiaotong University, Computer Science. Supervisor: Prof. [Liping Jing](http://faculty.bjtu.edu.cn/8249/) and Prof. [Jian Yu](http://faculty.bjtu.edu.cn/6463/).
@@ -40,11 +40,11 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 - **Unsupervised Multi-Modal Multi-Label Classification**  
 **Pengyu Xu**, Lei Feng, Chee Keong Kwoh, Fang Li, Zhuoyi Lin, Liping Jing, Jian Yu.  
 2024 (**Working in Progress**)  
-- **Enhancing Noisy Multi-label Text Classification under Label-Dependent Noise: A Label-Specific Denoising Framework**  
+- **Noisy Multi-Label Text Classification under Label-Dependent Noise**  
 **Pengyu Xu**, Liping Jing, Jian Yu.  
 2024 (**Submitted to EMNLP**)  
 - **Sequential Tag Recommendation via Target Guided Long-Short Term User Preference**  
-Bing Liu\*, **Pengyu Xu\***(As a Mentor), Shijing Wang, Hongjian Sun, Liping Jing.   
+Bing Liu\*, **Pengyu Xu\***(As a Mentor), Shijing Wang, Hongjian Sun, Liping Jing.    
 2024 (**Submitted to CIKM**)  
 - **Prototype-Driven Cross-Modal Alignment for Multi-Label Zero-Shot Learning**  
 Jing Liang, **Pengyu Xu**(As a Mentor), Songhe Feng.   
@@ -64,6 +64,9 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing, 2024 
 - **基于双流自编码器的多标签分类 (Multi-Label Classification based on Dual-Stream Autoencoders)**   
 Hongjian Sun\*, **Pengyu Xu\***(As a Mentor), Sijin Lu, Bing Liu, Liping Jing, Jian Yu.    
 计算机科学与探索 (Journal of Frontiers of Computer Science and Technology), 2024 (**Chinese CCF-B, accepted**)
+- **序列标签推荐 (Sequencial Tag Recommendation)**   
+Bing Liu\*, **Pengyu Xu\***(As a Mentor), Shijing Wang, Sijin Lu, Hongjian Sun, Liping Jing.  
+计算机科学 (Computer Science), 2024 (**Chinese CCF-B, accepted**)
 
 
 ### 2023：
@@ -134,15 +137,14 @@ of China Railway Express, **China Railway Container Transport Corp., Ltd**, PI, 
 
 ### Journal Reviewer
 
-- TKDE
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- IEEE Transactions on Audio Speech and Language Processing (TASLP)
+- ACM Transactions on Information Systems (TOIS)
 
 ### Conference Reviewer
 
-- ACL/NAACL/EACL 
+- ACL/EMNLP/NAACL/EACL 
 - NLPCC
-
-### Ph.D Guidance
-- Xiaomeng Li (2023- ), Research: Fine-grained topic modeling based on LLM.
 
 ### Master Guidance
 
@@ -168,5 +170,4 @@ of China Railway Express, **China Railway Container Transport Corp., Ltd**, PI, 
 ***
 
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
-
 
