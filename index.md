@@ -37,25 +37,29 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 \* denotes equal contribution.
 ### News:  
-- **Unsupervised Multi-Modal Multi-Label Classification**  
+- **Efficient Online Test-Time Adaptation for Multi-Label Text Classification with Dynamic Adapters**  
 **Pengyu Xu**, Lei Feng, Chee Keong Kwoh, Fang Li, Zhuoyi Lin, Liping Jing, Jian Yu.  
 2024 (**Working in Progress**)  
-- **Noisy Multi-Label Text Classification under Label-Dependent Noise**  
-**Pengyu Xu**, Liping Jing, Jian Yu.  
-2024 (**Submitted to EMNLP**)  
 - **Sequential Tag Recommendation via Target Guided Long-Short Term User Preference**  
 Bing Liu\*, **Pengyu Xu\***(As a Mentor), Shijing Wang, Hongjian Sun, Liping Jing.    
-2024 (**Submitted to CIKM**)  
+2024 (**Working in Progress**)  
 - **Prototype-Driven Cross-Modal Alignment for Multi-Label Zero-Shot Learning**  
 Jing Liang, **Pengyu Xu**(As a Mentor), Songhe Feng.   
-2024 (**Submitted to MM**)
+2024 (**Working in Progress**)
+- **ANOT: An Adaptive Neural Operator Transformer for learning Operatoirs From Incomplete Data**  
+Jingren Hou, Pengyu Xu(As a Mentor), Chang Gao, Huafeng Liu, Liping Jing.   
+2024 (**Working in Progress**)
 
 
 
 ### 2024:
+- **Enhancing Noisy Multi-label Text Classification under Label-Dependent Noise: A Label-Specific Denoising Framework**  
+**Pengyu Xu**, Liping Jing, Jian Yu.  
+Findings of Association for Computational Linguistics, EMNLP 2024 (**EMNLP, CCF-B, accepted**)  
 - **Noisy Multi-Label Text Classification via Instance-Label Pair Correction**  
 **Pengyu Xu**, Mingyang Song, Linkaida Liu, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
 Findings of North American Chapter of the Association for Computational Linguistics, 2024 (**NAACL, CCF-B, accepted**)
+  [[Paper]](https://aclanthology.org/2024.findings-naacl.93.pdf)
 - **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
 **Pengyu Xu**, Mingyang Song, Ziyi Li, Sijin Lu, Liping Jing, Jian Yu.  
 IEEE International Conference on Acoustics, Speech, and Signal Processing, 2024 (**ICASSP, CCF-B**)
@@ -63,10 +67,10 @@ IEEE International Conference on Acoustics, Speech, and Signal Processing, 2024 
   [[Code]](https://github.com/stxupengyu/XDA)   
 - **基于双流自编码器的多标签分类 (Multi-Label Classification based on Dual-Stream Autoencoders)**   
 Hongjian Sun\*, **Pengyu Xu\***(As a Mentor), Sijin Lu, Bing Liu, Liping Jing, Jian Yu.    
-计算机科学与探索 (Journal of Frontiers of Computer Science and Technology), 2024 (**Chinese CCF-B, accepted**)
+计算机科学与探索 (Journal of Frontiers of Computer Science and Technology), 2024 (**Chinese CCF-B**)
 - **序列标签推荐 (Sequencial Tag Recommendation)**   
 Bing Liu\*, **Pengyu Xu\***(As a Mentor), Shijing Wang, Sijin Lu, Hongjian Sun, Liping Jing.  
-计算机科学 (Computer Science), 2024 (**Chinese CCF-B, accepted**)
+计算机科学 (Computer Science), 2024 (**Chinese CCF-B**)
 
 
 ### 2023：
@@ -170,4 +174,5 @@ of China Railway Express, **China Railway Container Transport Corp., Ltd**, PI, 
 ***
 
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
 
