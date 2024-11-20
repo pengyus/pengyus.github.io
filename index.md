@@ -43,23 +43,20 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 - **Sequential Tag Recommendation via Target Guided Long-Short Term User Preference**  
 Bing Liu\*, **Pengyu Xu\***(As a Mentor), Shijing Wang, Hongjian Sun, Liping Jing.    
 2024 (**Working in Progress**)  
-- **Prototype-Driven Cross-Modal Alignment for Multi-Label Zero-Shot Learning**  
-Jing Liang, **Pengyu Xu**(As a Mentor), Songhe Feng.   
-2024 (**Working in Progress**)
-- **ANOT: An Adaptive Neural Operator Transformer for learning Operatoirs From Incomplete Data**  
-Jingren Hou, Pengyu Xu(As a Mentor), Chang Gao, Huafeng Liu, Liping Jing.   
-2024 (**Working in Progress**)
 
 
 
 ### 2024:
 - **Enhancing Noisy Multi-label Text Classification under Label-Dependent Noise: A Label-Specific Denoising Framework**  
 **Pengyu Xu**, Liping Jing, Jian Yu.  
-Findings of Association for Computational Linguistics, EMNLP 2024 (**EMNLP, CCF-B, accepted**)  
+Findings of Association for Computational Linguistics, EMNLP 2024 (**EMNLP, CCF-B**)  
+  [[Paper]](https://aclanthology.org/2024.findings-emnlp.324.pdf)
+  [[Code]](https://github.com/stxupengyu/led)  
 - **Noisy Multi-Label Text Classification via Instance-Label Pair Correction**  
 **Pengyu Xu**, Mingyang Song, Linkaida Liu, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
-Findings of North American Chapter of the Association for Computational Linguistics, 2024 (**NAACL, CCF-B, accepted**)
+Findings of North American Chapter of the Association for Computational Linguistics, 2024 (**NAACL, CCF-B**)
   [[Paper]](https://aclanthology.org/2024.findings-naacl.93.pdf)
+  [[Code]](https://github.com/stxupengyu/iLaCo)  
 - **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
 **Pengyu Xu**, Mingyang Song, Ziyi Li, Sijin Lu, Liping Jing, Jian Yu.  
 IEEE International Conference on Acoustics, Speech, and Signal Processing, 2024 (**ICASSP, CCF-B**)
@@ -131,7 +128,7 @@ of China Railway Express, **China Railway Container Transport Corp., Ltd**, PI, 
 ## Honors and Awards
 - **National Scholarship for Studying Abroad, China Scholarship Council (CSC)**, 2023.
 - **HAOMO.AI Scholarship, School of Computer and Information Technology, Beijing Jiaotong University**, 2022.
-- **First-Class Scholarship of Beijing Jiaotong University**, 2021, 2022, 2023.
+- **First-Class Scholarship of Beijing Jiaotong University**, 2021, 2022, 2023, 2024.
 - **The 18th China Post-Graduate Mathematical Contest in Modeling, The second prize**, 2021.([Award Ratio: 13.4%](https://cpipc.acge.org.cn//cw/detail/4/2c90800c7da2aae7017da35af2db0028))[[Code]](https://github.com/stxupengyu/Air-Quality-Prediction) 
 - **The 17th China Post-Graduate Mathematical Contest in Modeling, The second prize**, 2020.([Award Ratio: 14.6%](https://cpipc.acge.org.cn//cw/detail/4/2c9088a57597479f0175f7ca3ba413de))[[Code]](https://github.com/stxupengyu/P300-BCI-Data-Analysis) 
 
@@ -169,7 +166,7 @@ of China Railway Express, **China Railway Container Transport Corp., Ltd**, PI, 
 - **Reading:** especially like books on business, psychology, history, society and biography.  
 - **Sports:** fitness, swimming and skiing.  
 - **Arts:** movie, drama, talk show, rap and host. 
-- **TV shows:** include Breaking Bad, House of Card, Silicon Valley, R&M, Futurama, TBBT, GoT, HIMYM, Friends.
+- **TV shows:** include Breaking Bad, House of Card, Silicon Valley, R&M, Futurama.
 
 ***
 
