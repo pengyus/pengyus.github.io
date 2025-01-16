@@ -40,6 +40,17 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 - **Efficient Online Test-Time Adaptation for Multi-Label Text Classification with Dynamic Adapters**  
 **Pengyu Xu**, Lei Feng, Chee Keong Kwoh, Fang Li, Zhuoyi Lin, Liping Jing, Jian Yu.  
 2024 (**Working in Progress**)  
+
+- **End-to-End Knowledge Graph Construction from Long Documents in Open Domains
+via AI Agents. **  
+Wenjun Ma\*, **Pengyu Xu\***(As a Mentor).    
+2024 (**Working in Progress**)  
+
+- **Bridging the Temporal Gap: LLM-Assisted Legal Reasoning for Non-Contemporary
+Financial Crimes. **  
+Qian Gu\*, **Pengyu Xu\***(As a Mentor).    
+2024 (**Working in Progress**)  
+
 - **Sequential Tag Recommendation via Target Guided Long-Short Term User Preference**  
 Bing Liu\*, **Pengyu Xu\***(As a Mentor), Shijing Wang, Hongjian Sun, Liping Jing.    
 2024 (**Working in Progress**)  
@@ -68,6 +79,12 @@ Hongjian Sun\*, **Pengyu Xu\***(As a Mentor), Sijin Lu, Bing Liu, Liping Jing, J
 - **序列标签推荐 (Sequencial Tag Recommendation)**   
 Bing Liu\*, **Pengyu Xu\***(As a Mentor), Shijing Wang, Sijin Lu, Hongjian Sun, Liping Jing.  
 计算机科学 (Computer Science), 2024 (**Chinese CCF-B**)
+- **Cross-Modal Content Interaction with Retrieval Augmentation for Tag Recommendation in Software Q&A Websites**  
+Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
+arxiv, 2024
+[[Paper]](https://arxiv.org/pdf/2402.03635)
+
+
 
 
 ### 2023：
@@ -171,5 +188,6 @@ of China Railway Express, **China Railway Container Transport Corp., Ltd**, PI, 
 ***
 
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
 
 
