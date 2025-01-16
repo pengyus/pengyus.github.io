@@ -40,17 +40,12 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 - **Efficient Online Test-Time Adaptation for Multi-Label Text Classification with Dynamic Adapters**  
 **Pengyu Xu**, Lei Feng, Chee Keong Kwoh, Fang Li, Zhuoyi Lin, Liping Jing, Jian Yu.  
 2024 (**Working in Progress**)  
-
-- **End-to-End Knowledge Graph Construction from Long Documents in Open Domains
-via AI Agents. **  
+- **End-to-End Knowledge Graph Construction from Long Documents in Open Domains via AI Agents.**  
 Wenjun Ma\*, **Pengyu Xu\***(As a Mentor).    
 2024 (**Working in Progress**)  
-
-- **Bridging the Temporal Gap: LLM-Assisted Legal Reasoning for Non-Contemporary
-Financial Crimes. **  
+- **Bridging the Temporal Gap: LLM-Assisted Legal Reasoning for Non-Contemporary Financial Crimes.**  
 Qian Gu\*, **Pengyu Xu\***(As a Mentor).    
 2024 (**Working in Progress**)  
-
 - **Sequential Tag Recommendation via Target Guided Long-Short Term User Preference**  
 Bing Liu\*, **Pengyu Xu\***(As a Mentor), Shijing Wang, Hongjian Sun, Liping Jing.    
 2024 (**Working in Progress**)  
