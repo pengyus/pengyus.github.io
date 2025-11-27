@@ -61,8 +61,9 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 ### 2025
 
-- **OutboundEval: A Dual-Dimensional Benchmark for Expert-Level Intelligent Outbound Evaluation of Xbench’s Professional-Aligned Series**  
-  **Pengyu Xu**, et al.  
+- **VoiceAgentEval: A Dual-Dimensional Benchmark for Expert-Level Intelligent Voice-Agent Evaluation**  
+  **Pengyu Xu†**, Shijia Li\*, Ao Sun\*, et al.
+  Joint work with Meituan, Xbench, Agora.
   *arXiv*, 2025  
   [[Paper]](https://arxiv.org/pdf/2510.21244) [[Code]](https://github.com/LVYUERLVR/OutboundEval-Xbench)
 
@@ -227,29 +228,3 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279691496'%3E%3C/span%3E%3Cscript src='https://s9.cnzz.com/z_stat.php%3Fid%3D1279691496%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
 
-
-
-
-
-
-*** 
-
-- **Pairwise Instance Relation Augmentation for Long-tailed Multi-label Text Classification**  
-Lin Xiao, **Pengyu Xu**, Liping Jing, Xiangliang Zhang.  
-arxiv, 2023
-- **Cross-Modal Content Interaction with Retrieval Augmentation for Tag Recommendation in Software Q&A Websites**  
-Sijin Lu\*, **Pengyu Xu\***(As a Mentor), Bo Wang, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
-arxiv, 2024
-- **Prototype-Driven Cross-Modal Alignment for Multi-Label Zero-Shot Learning**  
-Jing Liang, **Pengyu Xu**(As a Mentor), Songhe Feng.   
-2024 (**Working in Progress**)
-- **ANOT: An Adaptive Neural Operator Transformer for learning Operatoirs From Incomplete Data**  
-Jingren Hou, Pengyu Xu(As a Mentor), Chang Gao, Huafeng Liu, Liping Jing.   
-2024 (**Working in Progress**)
-
-
-
-
-
-
-***
