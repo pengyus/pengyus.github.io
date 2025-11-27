@@ -62,7 +62,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 ### 2025
 
 - **VoiceAgentEval: A Dual-Dimensional Benchmark for Expert-Level Intelligent Voice-Agent Evaluation**  
-  **Pengyu Xu†**, Shijia Li\*, Ao Sun\*, et al.
+  **Pengyu Xu\***, Shijia Li\*, Ao Sun\*, et al.
   Joint work with Meituan, Xbench, Agora.
   *arXiv*, 2025  
   [[Paper]](https://arxiv.org/pdf/2510.21244) [[Code]](https://github.com/LVYUERLVR/OutboundEval-Xbench)
