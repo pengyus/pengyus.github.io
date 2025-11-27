@@ -47,7 +47,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 ## Publications
 
-* denotes equal contribution  
+\* denotes equal contribution  
 † denotes corresponding author
 
 ### 2026
