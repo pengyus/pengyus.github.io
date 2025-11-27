@@ -54,7 +54,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 - **Learning Neural Operators from Partial Observations via Latent Autoregressive Modeling**  
   Jingren Hou, Hong Wang, **Pengyu Xu†** (Mentor), Chang Gao, Huafeng Liu, Liping Jing.  
-  *AAAI Conference on Artificial Intelligence*, 2026 (**AAAI, CCF-A**)  
+  *AAAI Conference on Artificial Intelligence*, 2026 (**CCF-A**)  
   [[Paper]](https://github.com/Kingyum-Hou/LANO/tree/master) [[Code]](https://github.com/Kingyum-Hou/LANO/tree/master)
 
 ---
@@ -81,17 +81,17 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 - **Enhancing Noisy Multi-label Text Classification under Label-Dependent Noise: A Label-Specific Denoising Framework**  
   **Pengyu Xu**, Liping Jing, Jian Yu.  
-  *Findings of the Association for Computational Linguistics, EMNLP 2024* (**EMNLP, CCF-B**)  
+  *Findings of EMNLP 2024* (**CCF-B**)  
   [[Paper]](https://aclanthology.org/2024.findings-emnlp.324.pdf) [[Code]](https://github.com/stxupengyu/led)
 
 - **Noisy Multi-Label Text Classification via Instance-Label Pair Correction**  
   **Pengyu Xu**, Mingyang Song, Linkaida Liu, Bing Liu, Hongjian Sun, Liping Jing, Jian Yu.  
-  *Findings of NAACL 2024* (**NAACL, CCF-B**)  
+  *Findings of NAACL 2024* (**CCF-B**)  
   [[Paper]](https://aclanthology.org/2024.findings-naacl.93.pdf) [[Code]](https://github.com/stxupengyu/iLaCo)
 
 - **Taming Prompt-based Data Augmentation for Long-Tailed Extreme Multi-Label Text Classification**  
   **Pengyu Xu**, Mingyang Song, Ziyi Li, Sijin Lu, Liping Jing, Jian Yu.  
-  *ICASSP 2024* (**ICASSP, CCF-B**)  
+  *ICASSP 2024* (**CCF-B**)  
   [[Paper]](https://ieeexplore.ieee.org/abstract/document/10446315) [[Code]](https://github.com/stxupengyu/XDA)
 
 - **Cross-Modal Content Interaction with Retrieval Augmentation for Tag Recommendation in Software Q&A Websites**  
@@ -105,7 +105,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 - **Label-Specific Feature Augmentation for Long-Tailed Multi-Label Text Classification**  
   **Pengyu Xu**, Lin Xiao, Bing Liu, Sijin Lu, Liping Jing, Jian Yu.  
-  *AAAI Conference on Artificial Intelligence*, 2023 (**AAAI, Oral, CCF-A**)  
+  *AAAI Conference on Artificial Intelligence*, 2023 (**Oral, CCF-A**)  
   [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26259) [[Code]](https://github.com/stxupengyu/LSFA)
 
 - **Textual Tag Recommendation with Multi-tag Topical Attention**  
@@ -120,7 +120,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 - **Triple Alliance Prototype Orthotist Network for Long-Tailed Multi-Label Text Classification**  
   Lin Xiao, **Pengyu Xu**, Mingyang Song, Huafeng Liu, Liping Jing, Xiangliang Zhang.  
-  *IEEE Transactions on Audio Speech and Language Processing*, 2023 (**TASLP, CCF-B**)  
+  *IEEE Transactions on Audio Speech and Language Processing*, 2023 (**CCF-B**)  
   [[Paper]](https://ieeexplore.ieee.org/document/10098206)
 
 - **Bootstrap Decomposition Enhanced Orthogonal-Basis Projection Model for Long-Term Time Series Forecasting**  
@@ -148,29 +148,13 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 
 - **Interpretable Deep Generative Recommendation Models**  
   Huafeng Liu, Liping Jing, Jingxuan Wen, **Pengyu Xu**, Jiaqi Wang, Jian Yu, Michael K. Ng.  
-  *Journal of Machine Learning Research*, 2021 (**JMLR, CCF-A**)  
+  *Journal of Machine Learning Research*, 2021 (**CCF-A**)  
   [[Paper]](https://www.jmlr.org/papers/volume22/20-1098/20-1098.pdf)
 
 - **Bayesian Additive Matrix Approximation for Social Recommendation**  
   Huafeng Liu, Liping Jing, Jingxuan Wen, **Pengyu Xu**, Jian Yu, Michael K. Ng.  
-  *ACM Transactions on Knowledge Discovery from Data*, 2021 (**TKDD, CCF-B**)  
+  *ACM Transactions on Knowledge Discovery from Data*, 2021 (**CCF-B**)  
   [[Paper]](https://dl.acm.org/doi/10.1145/3451391)
-
----
-
-### Preprints & Working in Progress
-
-- **Pairwise Instance Relation Augmentation for Long-Tailed Multi-Label Text Classification**  
-  Lin Xiao, **Pengyu Xu**, Liping Jing, Xiangliang Zhang.  
-  *arXiv*, 2023
-
-- **Prototype-Driven Cross-Modal Alignment for Multi-Label Zero-Shot Learning**  
-  Jing Liang, **Pengyu Xu** (Mentor), Songhe Feng.  
-  Working in Progress, 2024
-
-- **ANOT: An Adaptive Neural Operator Transformer for Learning Operators from Incomplete Data**  
-  Jingren Hou, **Pengyu Xu** (Mentor), Chang Gao, Huafeng Liu, Liping Jing.  
-  Working in Progress, 2024
 
 
 ***
@@ -221,8 +205,7 @@ Beijing Jiaotong University, Mathematics and Applied Mathematics ([Zhixing Honou
 ## Hobbies
 - **Reading:** Especially biographies, history and finance/economy books; roughly one book per month.  
 - **Sports:** Regular exercise (around three times per week); fitness, swimming and badminton.
-- **Others:**  
-  Movies, drama, talk shows, rap, and hosting.
+- **Others:**  Movies, drama, talk shows, rap, and hosting.
 
 ***
 
