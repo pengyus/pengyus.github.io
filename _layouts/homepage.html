@@ -1,9 +1,4 @@
 <!DOCTYPE HTML>
-<!--
-  Strata by HTML5 UP
-  html5up.net | @ajlkn
-  Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html lang="{{ page.lang | default: 'en' }}">
   <head>
     <title>{{ page.title | default: site.title }}</title>
@@ -31,92 +26,93 @@
 
 
   </head>
-  <body class="is-preload">
+  <body>
+    <div class="page">
+      <header class="site-header">
+        <div class="container">
+          <div class="profile">
+            {% if site.avatar %}
+            <div class="profile__avatar">
+              <img src="{{ site.avatar | relative_url }}" alt="avatar" onContextMenu="return false" />
+            </div>
+            {% endif %}
 
-    <!-- Header -->
-      <header id="header">
-        <div class="inner">
-          {% if site.avatar %}
-          <a class="image avatar"><img src="{{ site.avatar | relative_url }}" alt="avatar" onContextMenu="return false" /></a>
-          {% endif %}
-          <h1 class="header-title"><strong><header-title>{{ site.title }}</header-title></strong><br></h1>
-          <header-info>
-          {% assign display_position = page.position | default: site.position %}
-          {% if display_position %}
-          {{ display_position }}<br>
-          {% endif %}
-          {% assign display_affiliation = page.affiliation | default: site.affiliation %}
-          {% if display_affiliation %}
-          {{ display_affiliation }}
-          <br>
-          {% endif %}
-          {% assign display_email = page.email | default: site.email %}
-          {% if display_email %}
-          {{ display_email }}
-          <br>
-          {% endif %}
-          </header-info>
+            <div class="profile__main">
+              <div class="profile__top">
+                <h1 class="profile__name">{{ page.title | default: site.title }}</h1>
+                <nav
+                  class="lang-switch"
+                  aria-label="Language switch"
+                  data-url-en="{{ '/' | relative_url }}"
+                  data-url-zh="{{ '/zh/' | relative_url }}"
+                >
+                  <a
+                    class="lang-switch__item {% if page.lang == 'en' or page.lang == nil %}is-active{% endif %}"
+                    href="{{ '/' | relative_url }}"
+                    data-lang="en"
+                  >EN</a>
+                  <a
+                    class="lang-switch__item {% if page.lang == 'zh' %}is-active{% endif %}"
+                    href="{{ '/zh/' | relative_url }}"
+                    data-lang="zh"
+                  >中文</a>
+                </nav>
+              </div>
 
-          <nav
-            class="lang-switch"
-            aria-label="Language switch"
-            data-url-en="{{ '/' | relative_url }}"
-            data-url-zh="{{ '/zh/' | relative_url }}"
-          >
-            <a
-              class="lang-switch__item {% if page.lang == 'en' or page.lang == nil %}is-active{% endif %}"
-              href="{{ '/' | relative_url }}"
-              data-lang="en"
-            >EN</a>
-            <a
-              class="lang-switch__item {% if page.lang == 'zh' %}is-active{% endif %}"
-              href="{{ '/zh/' | relative_url }}"
-              data-lang="zh"
-            >中文</a>
-          </nav>
-        </div>
+              <div class="profile__meta">
+                {% assign display_position = page.position | default: site.position %}
+                {% if display_position %}
+                <div class="profile__line">{{ display_position }}</div>
+                {% endif %}
 
-        <!-- Footer (moved into sidebar for consistent desktop styling) -->
-        <footer id="footer">
-          <div class="inner">
-            <ul class="icons">
-              {% if site.email_link %}
-              <li><a href="{{ site.email_link }}" class="icon solid fa-envelope"><span class="label">envelope</span></a></li>
-              {% endif %}
-              {% if site.github_link %}
-              <li><a href="{{ site.github_link }}" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
-              {% endif %}
-              {% if site.google_scholar %}
-              <li><a href="{{ site.google_scholar }}" target="_blank" class="icon brands fa-google"><span class="label">Google Scholar</span></a></li>
-              {% endif %}
-              {% if site.weixin %}
-              <li><a href="{{ site.weixin }}" target="_blank" class="icon brands fa-zhihu"><span class="label">weixin</span></a></li>
-              {% endif %}
-            </ul>
+                {% assign display_affiliation = page.affiliation | default: site.affiliation %}
+                {% if display_affiliation %}
+                <div class="profile__line">{{ display_affiliation }}</div>
+                {% endif %}
+
+                {% assign display_email = page.email | default: site.email %}
+                {% if display_email %}
+                <div class="profile__line">
+                  {% if site.email_link %}
+                    <a href="{{ site.email_link }}">{{ display_email }}</a>
+                  {% else %}
+                    {{ display_email }}
+                  {% endif %}
+                </div>
+                {% endif %}
+              </div>
+
+              <ul class="profile__icons">
+                {% if site.email_link %}
+                <li><a href="{{ site.email_link }}" aria-label="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a></li>
+                {% endif %}
+                {% if site.github_link %}
+                <li><a href="{{ site.github_link }}" target="_blank" rel="noopener" aria-label="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a></li>
+                {% endif %}
+                {% if site.google_scholar %}
+                <li><a href="{{ site.google_scholar }}" target="_blank" rel="noopener" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a></li>
+                {% endif %}
+                {% if site.linkedin %}
+                <li><a href="{{ site.linkedin }}" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
+                {% endif %}
+                {% if site.weixin %}
+                <li><a href="{{ site.weixin }}" target="_blank" rel="noopener" aria-label="Zhihu"><i class="fab fa-zhihu" aria-hidden="true"></i></a></li>
+                {% endif %}
+              </ul>
+            </div>
           </div>
-        </footer>
+        </div>
       </header>
 
-    <!-- Main -->
-      <div id="main">
+      <main class="site-main">
+        <div class="container markdown">
+          {{ content }}
 
-      <section id="main_content">
-
-      {{ content }}
-
-      <theme-info>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/strata-academic" target="_blank" rel="noopener">Strata Academic</a> theme.</theme-info>
-
-      </section>
-
-      </div>
-
-    <!-- Scripts -->
-      <script src="{{ '/assets/original/js/jquery.min.js' | relative_url }}"></script>
-      <script src="{{ '/assets/original/js/jquery.poptrox.min.js' | relative_url }}"></script>
-      <script src="{{ '/assets/original/js/browser.min.js' | relative_url }}"></script>
-      <script src="{{ '/assets/original/js/breakpoints.min.js' | relative_url }}"></script>
-      <script src="{{ '/assets/original/js/util.js' | relative_url }}"></script>
-      <script src="{{ '/assets/original/js/main.js' | relative_url }}"></script>
-
+          <p class="site-footnote">
+            Powered by Jekyll.
+          </p>
+        </div>
+      </main>
+    </div>
   </body>
 </html>
